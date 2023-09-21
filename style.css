@@ -1,0 +1,36 @@
+
+body{
+    background: rgb(101, 115, 216);
+}
+h1{
+  font-size: 60px;
+  color: rgb(0, 0, 0);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+p{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+
+}
+img{
+    width: 300px;
+    height: 300px ;
+    margin: 30px;
+    margin-left: 160px;
+}
+    .cabecalho{
+        background-color: blueviolet;
+    }
+    
+        
+
+
+
+
+
+
+
+
